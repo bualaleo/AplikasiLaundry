@@ -1,0 +1,14 @@
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.exe
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.deps.json
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.runtimeconfig.json
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.runtimeconfig.dev.json
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.dll
+C:\Users\Buala Hulu\source\repos\laundry\laundry\bin\Debug\netcoreapp3.1\ProgramLaundry.pdb
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.csproj.AssemblyReference.cache
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.AssemblyInfoInputs.cache
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.AssemblyInfo.cs
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.csproj.CoreCompileInputs.cache
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.dll
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.pdb
+C:\Users\Buala Hulu\source\repos\laundry\laundry\obj\Debug\netcoreapp3.1\ProgramLaundry.genruntimeconfig.cache
